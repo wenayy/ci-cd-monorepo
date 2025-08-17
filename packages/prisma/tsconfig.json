@@ -1,3 +1,5 @@
  {
-  "extends": "@repo/typescript-config/base.json" // extended base typescript config file which is outside the project
+  "extends": "@repo/typescript-config/base.json",// extended base typescript config file which is outside the project
+
+   
  }
